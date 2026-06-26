@@ -1,4 +1,4 @@
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
 import Caring from "./components/section2/Caring";
 import Customer from "./components/section2/Customer";
 import Info from "./components/section2/Information";
